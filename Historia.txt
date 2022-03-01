@@ -2,4 +2,6 @@ Esto es un ejemplo Jhon
 
 Master 1
 
+Master 2
+
 Y mañana hablaremos de su vida laboral
