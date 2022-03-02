@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las multiples personalidades del Freddy
+* Creado por el incrieble Jhon Mora
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado parael ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y ve a ver el curso.
